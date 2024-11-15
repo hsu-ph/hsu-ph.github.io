@@ -19,10 +19,10 @@ author = "Pei-Han"
 # license = '<a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">CC BY-SA-4.0</a>'
 description = "Pei-Han's personal website"
 keywords = "blog,developer,personal"
-info = ["Full Stack DevOps", "Magician"]
+info = ["Master student", "Boston"]
 avatarURL = "images/avatar.jpg"
-#gravatar = "john.doe@example.com"
-dateFormat = "January 2, 2006"
+#gravatar = "pphan20507@gmail.com"
+dateFormat = "January 2, 2024"
 since = 2019
 # Git Commit in Footer, uncomment the line below to enable it
 commit = "https://github.com/luizdepra/hugo-coder/tree/"
