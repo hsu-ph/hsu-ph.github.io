@@ -2,109 +2,189 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://hsu-ph.github.io/pt-br/authors/</loc>
+    <loc>http://localhost:1313/pt-br/authors/</loc>
     <lastmod>2023-01-05T01:15:52+01:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://hsu-ph.github.io/authors/"
+                href="http://localhost:1313/authors/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="pt-br"
-                href="http://hsu-ph.github.io/pt-br/authors/"
+                href="http://localhost:1313/pt-br/authors/"
                 />
   </url><url>
-    <loc>http://hsu-ph.github.io/pt-br/autores/autores-de-hugo/</loc>
+    <loc>http://localhost:1313/pt-br/autores/autores-de-hugo/</loc>
     <lastmod>2023-01-05T01:15:52+01:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://hsu-ph.github.io/authors/hugo-authors/"
+                href="http://localhost:1313/authors/hugo-authors/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="pt-br"
-                href="http://hsu-ph.github.io/pt-br/autores/autores-de-hugo/"
+                href="http://localhost:1313/pt-br/autores/autores-de-hugo/"
                 />
   </url><url>
-    <loc>http://hsu-ph.github.io/pt-br/categories/</loc>
+    <loc>http://localhost:1313/pt-br/categories/</loc>
     <lastmod>2023-01-04T23:21:18+01:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://hsu-ph.github.io/categories/"
+                href="http://localhost:1313/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="pt-br"
-                href="http://hsu-ph.github.io/pt-br/categories/"
+                href="http://localhost:1313/pt-br/categories/"
                 />
   </url><url>
-    <loc>http://hsu-ph.github.io/pt-br/categoria/temas/</loc>
+    <loc>http://localhost:1313/pt-br/categoria/temas/</loc>
     <lastmod>2023-01-04T23:21:18+01:00</lastmod>
   </url><url>
-    <loc>http://hsu-ph.github.io/pt-br/categoria/sintaxe/</loc>
+    <loc>http://localhost:1313/pt-br/categoria/sintaxe/</loc>
     <lastmod>2023-01-04T23:21:06+01:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://hsu-ph.github.io/categories/syntax/"
+                href="http://localhost:1313/categories/syntax/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="pt-br"
-                href="http://hsu-ph.github.io/pt-br/categoria/sintaxe/"
+                href="http://localhost:1313/pt-br/categoria/sintaxe/"
                 />
   </url><url>
-    <loc>http://hsu-ph.github.io/pt-br/tags/shortcodes/</loc>
+    <loc>http://localhost:1313/pt-br/tags/shortcodes/</loc>
     <lastmod>2023-01-04T11:51:36+01:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://hsu-ph.github.io/tags/shortcodes/"
+                href="http://localhost:1313/tags/shortcodes/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="pt-br"
-                href="http://hsu-ph.github.io/pt-br/tags/shortcodes/"
+                href="http://localhost:1313/pt-br/tags/shortcodes/"
                 />
   </url><url>
-    <loc>http://hsu-ph.github.io/pt-br/tags/</loc>
+    <loc>http://localhost:1313/pt-br/tags/</loc>
     <lastmod>2023-01-04T11:51:36+01:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://hsu-ph.github.io/tags/"
+                href="http://localhost:1313/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="pt-br"
-                href="http://hsu-ph.github.io/pt-br/tags/"
+                href="http://localhost:1313/pt-br/tags/"
                 />
   </url><url>
-    <loc>http://hsu-ph.github.io/pt-br/</loc>
+    <loc>http://localhost:1313/pt-br/tags/css/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://hsu-ph.github.io/"
+                href="http://localhost:1313/tags/css/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="pt-br"
-                href="http://hsu-ph.github.io/pt-br/"
+                href="http://localhost:1313/pt-br/tags/css/"
                 />
   </url><url>
-    <loc>http://hsu-ph.github.io/pt-br/series/</loc>
+    <loc>http://localhost:1313/pt-br/series/demonstra%C3%A7%C3%A3o-do-tema/</loc>
+  </url><url>
+    <loc>http://localhost:1313/pt-br/categories/demonstra%C3%A7%C3%A3o-do-tema/</loc>
+  </url><url>
+    <loc>http://localhost:1313/pt-br/tags/html/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://hsu-ph.github.io/series/"
+                href="http://localhost:1313/tags/html/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="pt-br"
-                href="http://hsu-ph.github.io/pt-br/series/"
+                href="http://localhost:1313/pt-br/tags/html/"
+                />
+  </url><url>
+    <loc>http://localhost:1313/pt-br/tags/hugo/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://localhost:1313/tags/hugo/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt-br"
+                href="http://localhost:1313/pt-br/tags/hugo/"
+                />
+  </url><url>
+    <loc>http://localhost:1313/pt-br/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://localhost:1313/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt-br"
+                href="http://localhost:1313/pt-br/"
+                />
+  </url><url>
+    <loc>http://localhost:1313/pt-br/tags/markdown/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://localhost:1313/tags/markdown/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt-br"
+                href="http://localhost:1313/pt-br/tags/markdown/"
+                />
+  </url><url>
+    <loc>http://localhost:1313/pt-br/posts/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://localhost:1313/posts/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt-br"
+                href="http://localhost:1313/pt-br/posts/"
+                />
+  </url><url>
+    <loc>http://localhost:1313/pt-br/authors/programador-solit%C3%A1rio/</loc>
+  </url><url>
+    <loc>http://localhost:1313/pt-br/series/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://localhost:1313/series/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt-br"
+                href="http://localhost:1313/pt-br/series/"
+                />
+  </url><url>
+    <loc>http://localhost:1313/pt-br/categories/sintaxe/</loc>
+  </url><url>
+    <loc>http://localhost:1313/pt-br/tags/text/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://localhost:1313/tags/text/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt-br"
+                href="http://localhost:1313/pt-br/tags/text/"
                 />
   </url>
 </urlset>

@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Event Blog on Pei-Han</title>
-    <link>http://hsu-ph.github.io/series/event-blog/</link>
+    <link>http://localhost:1313/series/event-blog/</link>
     <description>Recent content in Event Blog on Pei-Han</description>
     <generator>Hugo</generator>
     <language>en</language>
     <lastBuildDate>Sun, 12 May 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://hsu-ph.github.io/series/event-blog/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/series/event-blog/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>NBA Game Experience</title>
-      <link>http://hsu-ph.github.io/posts/nba-content/</link>
+      <link>http://localhost:1313/posts/nba-content/</link>
       <pubDate>Sun, 12 May 2024 00:00:00 +0000</pubDate>
-      <guid>http://hsu-ph.github.io/posts/nba-content/</guid>
+      <guid>http://localhost:1313/posts/nba-content/</guid>
       <description>&lt;!-- raw HTML omitted --&gt;&#xA;&lt;p&gt;I went with a friend to see a regular season NBA game in Boston to watch the Celtics, and it was truly &lt;strong&gt;an unforgettable experience&lt;/strong&gt;! The atmosphere was &lt;strong&gt;electric&lt;/strong&gt; right from the start, with fans wearing green jerseys and chanting slogans. &lt;em&gt;(Of course, we wore green too!)&lt;/em&gt;&#xA;The moment the players entered the stadium, the crowd erupted, and the cheers were deafening. Being there, I felt an indescribable sense of &lt;strong&gt;unity&lt;/strong&gt; that you simply can&amp;rsquo;t experience on TV.&lt;/p&gt;</description>
     </item>
   </channel>

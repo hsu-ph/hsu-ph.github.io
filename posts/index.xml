@@ -2,32 +2,32 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on Pei-Han</title>
-    <link>http://hsu-ph.github.io/posts/</link>
+    <link>http://localhost:1313/posts/</link>
     <description>Recent content in Posts on Pei-Han</description>
     <generator>Hugo</generator>
     <language>en</language>
     <lastBuildDate>Sun, 12 May 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://hsu-ph.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>NBA Game Experience</title>
-      <link>http://hsu-ph.github.io/posts/nba-content/</link>
+      <link>http://localhost:1313/posts/nba-content/</link>
       <pubDate>Sun, 12 May 2024 00:00:00 +0000</pubDate>
-      <guid>http://hsu-ph.github.io/posts/nba-content/</guid>
+      <guid>http://localhost:1313/posts/nba-content/</guid>
       <description>&lt;!-- raw HTML omitted --&gt;&#xA;&lt;p&gt;I went with a friend to see a regular season NBA game in Boston to watch the Celtics, and it was truly &lt;strong&gt;an unforgettable experience&lt;/strong&gt;! The atmosphere was &lt;strong&gt;electric&lt;/strong&gt; right from the start, with fans wearing green jerseys and chanting slogans. &lt;em&gt;(Of course, we wore green too!)&lt;/em&gt;&#xA;The moment the players entered the stadium, the crowd erupted, and the cheers were deafening. Being there, I felt an indescribable sense of &lt;strong&gt;unity&lt;/strong&gt; that you simply can&amp;rsquo;t experience on TV.&lt;/p&gt;</description>
     </item>
     <item>
-      <title>More Rich Content</title>
-      <link>http://hsu-ph.github.io/posts/more-rich-content/</link>
-      <pubDate>Tue, 11 Jul 2023 00:00:00 +0000</pubDate>
-      <guid>http://hsu-ph.github.io/posts/more-rich-content/</guid>
-      <description>&lt;p&gt;Hugo Coder provides some Custom Shortcodes.&lt;/p&gt;&#xA;&lt;h2 id=&#34;heading&#34;&gt;&#xA;  &#xA;  &lt;a class=&#34;heading-link&#34; href=&#34;#heading&#34;&gt;&#xA;    &lt;i class=&#34;fa-solid fa-link&#34; aria-hidden=&#34;true&#34; title=&#34;Link to heading&#34;&gt;&lt;/i&gt;&#xA;    &lt;span class=&#34;sr-only&#34;&gt;Link to heading&lt;/span&gt;&#xA;  &lt;/a&gt;&#xA;&lt;/h2&gt;</description>
+      <title>Christmas in New York</title>
+      <link>http://localhost:1313/posts/placeholder-text/</link>
+      <pubDate>Mon, 25 Dec 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/placeholder-text/</guid>
+      <description>&lt;h1 id=&#34;christmas-in-new-york-&#34;&gt;&#xA;  Christmas in New York 🎄✨&#xA;  &lt;a class=&#34;heading-link&#34; href=&#34;#christmas-in-new-york-&#34;&gt;&#xA;    &lt;i class=&#34;fa-solid fa-link&#34; aria-hidden=&#34;true&#34; title=&#34;Link to heading&#34;&gt;&lt;/i&gt;&#xA;    &lt;span class=&#34;sr-only&#34;&gt;Link to heading&lt;/span&gt;&#xA;  &lt;/a&gt;&#xA;&lt;/h1&gt;&#xA;&lt;p&gt;New York City during Christmas is truly magical. From the sparkling lights of Times Square to the majestic Christmas tree at Rockefeller Center, every corner of the city feels like a scene from a holiday movie. As an international student, this experience has been nothing short of extraordinary.&lt;/p&gt;&#xA;&lt;!-- raw HTML omitted --&gt;&#xA;&lt;p&gt;Walking through the streets of Manhattan, I was captivated by the window displays of Fifth Avenue. The creativity and effort put into these displays are breathtaking. The streets were bustling with people, laughter, and the sound of holiday music filling the air.&lt;/p&gt;</description>
     </item>
     <item>
-      <title>Placeholder Text</title>
-      <link>http://hsu-ph.github.io/posts/placeholder-text/</link>
-      <pubDate>Wed, 05 Jul 2023 00:00:00 +0000</pubDate>
-      <guid>http://hsu-ph.github.io/posts/placeholder-text/</guid>
-      <description>&lt;p&gt;Lorem est tota propiore conpellat pectoribus de pectora summo.&lt;/p&gt;</description>
+      <title>More Rich Content</title>
+      <link>http://localhost:1313/posts/more-rich-content/</link>
+      <pubDate>Tue, 11 Jul 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/more-rich-content/</guid>
+      <description>&lt;p&gt;Hugo Coder provides some Custom Shortcodes.&lt;/p&gt;&#xA;&lt;h2 id=&#34;heading&#34;&gt;&#xA;  &#xA;  &lt;a class=&#34;heading-link&#34; href=&#34;#heading&#34;&gt;&#xA;    &lt;i class=&#34;fa-solid fa-link&#34; aria-hidden=&#34;true&#34; title=&#34;Link to heading&#34;&gt;&lt;/i&gt;&#xA;    &lt;span class=&#34;sr-only&#34;&gt;Link to heading&lt;/span&gt;&#xA;  &lt;/a&gt;&#xA;&lt;/h2&gt;</description>
     </item>
   </channel>
 </rss>
