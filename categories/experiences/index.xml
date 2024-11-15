@@ -2,18 +2,25 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Experiences on Pei-Han</title>
-    <link>http://localhost:1313/categories/experiences/</link>
+    <link>http://hsu-ph.github.io/categories/experiences/</link>
     <description>Recent content in Experiences on Pei-Han</description>
     <generator>Hugo</generator>
     <language>en</language>
     <lastBuildDate>Sun, 12 May 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/categories/experiences/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://hsu-ph.github.io/categories/experiences/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>NBA Game Experience</title>
-      <link>http://localhost:1313/posts/nba-content/</link>
+      <link>http://hsu-ph.github.io/posts/nba-content/</link>
       <pubDate>Sun, 12 May 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/nba-content/</guid>
+      <guid>http://hsu-ph.github.io/posts/nba-content/</guid>
       <description>&lt;!-- raw HTML omitted --&gt;&#xA;&lt;p&gt;I went with a friend to see a regular season NBA game in Boston to watch the Celtics, and it was truly &lt;strong&gt;an unforgettable experience&lt;/strong&gt;! The atmosphere was &lt;strong&gt;electric&lt;/strong&gt; right from the start, with fans wearing green jerseys and chanting slogans. &lt;em&gt;(Of course, we wore green too!)&lt;/em&gt;&#xA;The moment the players entered the stadium, the crowd erupted, and the cheers were deafening. Being there, I felt an indescribable sense of &lt;strong&gt;unity&lt;/strong&gt; that you simply can&amp;rsquo;t experience on TV.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Christmas in New York</title>
+      <link>http://hsu-ph.github.io/posts/new-year-nyc/</link>
+      <pubDate>Mon, 25 Dec 2023 00:00:00 +0000</pubDate>
+      <guid>http://hsu-ph.github.io/posts/new-year-nyc/</guid>
+      <description>&lt;p&gt;New York City during the holiday season feels like stepping into a magical snow globe. The streets are alive with the sparkle of Christmas lights, the air smells faintly of roasted chestnuts, and everywhere you turn, there’s something that makes you stop and smile.&lt;/p&gt;&#xA;&lt;p&gt;I spent an afternoon at Bryant Park’s Winter Village, sipping on hot chocolate while wandering through the cozy little stalls filled with handmade trinkets and festive treats. The chilly weather couldn’t dampen the warmth of the season—street performers singing Christmas carols, small cafes offering peppermint lattes, and the buzz of cheerful conversations made it impossible not to feel the holiday spirit. It’s those little, unexpected moments that make this time of year so magical.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

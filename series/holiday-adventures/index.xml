@@ -2,18 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Holiday Adventures on Pei-Han</title>
-    <link>http://localhost:1313/series/holiday-adventures/</link>
+    <link>http://hsu-ph.github.io/series/holiday-adventures/</link>
     <description>Recent content in Holiday Adventures on Pei-Han</description>
     <generator>Hugo</generator>
     <language>en</language>
     <lastBuildDate>Mon, 25 Dec 2023 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/series/holiday-adventures/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://hsu-ph.github.io/series/holiday-adventures/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Christmas in New York</title>
-      <link>http://localhost:1313/posts/placeholder-text/</link>
+      <link>http://hsu-ph.github.io/posts/new-year-nyc/</link>
       <pubDate>Mon, 25 Dec 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/placeholder-text/</guid>
-      <description>&lt;h1 id=&#34;christmas-in-new-york-&#34;&gt;&#xA;  Christmas in New York 🎄✨&#xA;  &lt;a class=&#34;heading-link&#34; href=&#34;#christmas-in-new-york-&#34;&gt;&#xA;    &lt;i class=&#34;fa-solid fa-link&#34; aria-hidden=&#34;true&#34; title=&#34;Link to heading&#34;&gt;&lt;/i&gt;&#xA;    &lt;span class=&#34;sr-only&#34;&gt;Link to heading&lt;/span&gt;&#xA;  &lt;/a&gt;&#xA;&lt;/h1&gt;&#xA;&lt;p&gt;New York City during Christmas is truly magical. From the sparkling lights of Times Square to the majestic Christmas tree at Rockefeller Center, every corner of the city feels like a scene from a holiday movie. As an international student, this experience has been nothing short of extraordinary.&lt;/p&gt;&#xA;&lt;!-- raw HTML omitted --&gt;&#xA;&lt;p&gt;Walking through the streets of Manhattan, I was captivated by the window displays of Fifth Avenue. The creativity and effort put into these displays are breathtaking. The streets were bustling with people, laughter, and the sound of holiday music filling the air.&lt;/p&gt;</description>
+      <guid>http://hsu-ph.github.io/posts/new-year-nyc/</guid>
+      <description>&lt;p&gt;New York City during the holiday season feels like stepping into a magical snow globe. The streets are alive with the sparkle of Christmas lights, the air smells faintly of roasted chestnuts, and everywhere you turn, there’s something that makes you stop and smile.&lt;/p&gt;&#xA;&lt;p&gt;I spent an afternoon at Bryant Park’s Winter Village, sipping on hot chocolate while wandering through the cozy little stalls filled with handmade trinkets and festive treats. The chilly weather couldn’t dampen the warmth of the season—street performers singing Christmas carols, small cafes offering peppermint lattes, and the buzz of cheerful conversations made it impossible not to feel the holiday spirit. It’s those little, unexpected moments that make this time of year so magical.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

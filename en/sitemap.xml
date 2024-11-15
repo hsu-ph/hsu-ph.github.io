@@ -2,246 +2,184 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/about/</loc>
+    <loc>http://hsu-ph.github.io/about/</loc>
     <lastmod>2024-10-08T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/</loc>
+    <loc>http://hsu-ph.github.io/</loc>
     <lastmod>2024-10-08T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="pt-br"
-                href="http://localhost:1313/pt-br/"
+                href="http://hsu-ph.github.io/pt-br/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:1313/"
+                href="http://hsu-ph.github.io/"
                 />
   </url><url>
-    <loc>http://localhost:1313/authors/</loc>
+    <loc>http://hsu-ph.github.io/authors/</loc>
     <lastmod>2024-05-12T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="pt-br"
-                href="http://localhost:1313/pt-br/authors/"
+                href="http://hsu-ph.github.io/pt-br/authors/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:1313/authors/"
+                href="http://hsu-ph.github.io/authors/"
                 />
   </url><url>
-    <loc>http://localhost:1313/tags/blog/</loc>
+    <loc>http://hsu-ph.github.io/tags/blog/</loc>
     <lastmod>2024-05-12T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/categories/</loc>
+    <loc>http://hsu-ph.github.io/categories/</loc>
     <lastmod>2024-05-12T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="pt-br"
-                href="http://localhost:1313/pt-br/categories/"
+                href="http://hsu-ph.github.io/pt-br/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:1313/categories/"
+                href="http://hsu-ph.github.io/categories/"
                 />
   </url><url>
-    <loc>http://localhost:1313/series/event-blog/</loc>
+    <loc>http://hsu-ph.github.io/series/event-blog/</loc>
     <lastmod>2024-05-12T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/categories/experiences/</loc>
+    <loc>http://hsu-ph.github.io/categories/experiences/</loc>
     <lastmod>2024-05-12T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/nba/</loc>
+    <loc>http://hsu-ph.github.io/tags/nba/</loc>
     <lastmod>2024-05-12T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/nba-content/</loc>
+    <loc>http://hsu-ph.github.io/posts/nba-content/</loc>
     <lastmod>2024-05-12T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/authors/pei-han/</loc>
+    <loc>http://hsu-ph.github.io/authors/pei-han/</loc>
     <lastmod>2024-05-12T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/photos/</loc>
+    <loc>http://hsu-ph.github.io/tags/photos/</loc>
     <lastmod>2024-05-12T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/</loc>
+    <loc>http://hsu-ph.github.io/posts/</loc>
+    <lastmod>2024-05-12T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://hsu-ph.github.io/series/</loc>
     <lastmod>2024-05-12T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="pt-br"
-                href="http://localhost:1313/pt-br/posts/"
+                href="http://hsu-ph.github.io/pt-br/series/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:1313/posts/"
+                href="http://hsu-ph.github.io/series/"
                 />
   </url><url>
-    <loc>http://localhost:1313/series/</loc>
+    <loc>http://hsu-ph.github.io/categories/sports/</loc>
+    <lastmod>2024-05-12T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://hsu-ph.github.io/tags/</loc>
     <lastmod>2024-05-12T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="pt-br"
-                href="http://localhost:1313/pt-br/series/"
+                href="http://hsu-ph.github.io/pt-br/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:1313/series/"
+                href="http://hsu-ph.github.io/tags/"
                 />
   </url><url>
-    <loc>http://localhost:1313/categories/sports/</loc>
-    <lastmod>2024-05-12T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/</loc>
-    <lastmod>2024-05-12T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="pt-br"
-                href="http://localhost:1313/pt-br/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="http://localhost:1313/tags/"
-                />
-  </url><url>
-    <loc>http://localhost:1313/tags/christmas/</loc>
+    <loc>http://hsu-ph.github.io/tags/christmas/</loc>
     <lastmod>2023-12-25T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/placeholder-text/</loc>
+    <loc>http://hsu-ph.github.io/posts/new-year-nyc/</loc>
     <lastmod>2023-12-25T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/series/holiday-adventures/</loc>
+    <loc>http://hsu-ph.github.io/series/holiday-adventures/</loc>
     <lastmod>2023-12-25T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/new-york/</loc>
+    <loc>http://hsu-ph.github.io/tags/new-york/</loc>
     <lastmod>2023-12-25T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/study-abroad/</loc>
+    <loc>http://hsu-ph.github.io/tags/study-abroad/</loc>
     <lastmod>2023-12-25T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/categories/travel/</loc>
+    <loc>http://hsu-ph.github.io/categories/travel/</loc>
     <lastmod>2023-12-25T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/css/</loc>
+    <loc>http://hsu-ph.github.io/tags/css/</loc>
+    <lastmod>2023-07-11T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://hsu-ph.github.io/tags/html/</loc>
+    <lastmod>2023-07-11T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://hsu-ph.github.io/tags/hugo/</loc>
+    <lastmod>2023-07-11T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://hsu-ph.github.io/authors/lone-coder/</loc>
+    <lastmod>2023-07-11T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://hsu-ph.github.io/tags/markdown/</loc>
+    <lastmod>2023-07-11T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://hsu-ph.github.io/posts/more-rich-content/</loc>
+    <lastmod>2023-07-11T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://hsu-ph.github.io/tags/shortcodes/</loc>
     <lastmod>2023-07-11T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="pt-br"
-                href="http://localhost:1313/pt-br/tags/css/"
+                href="http://hsu-ph.github.io/pt-br/tags/shortcodes/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:1313/tags/css/"
+                href="http://hsu-ph.github.io/tags/shortcodes/"
                 />
   </url><url>
-    <loc>http://localhost:1313/tags/html/</loc>
+    <loc>http://hsu-ph.github.io/categories/syntax/</loc>
     <lastmod>2023-07-11T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="pt-br"
-                href="http://localhost:1313/pt-br/tags/html/"
+                href="http://hsu-ph.github.io/pt-br/categoria/sintaxe/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:1313/tags/html/"
+                href="http://hsu-ph.github.io/categories/syntax/"
                 />
   </url><url>
-    <loc>http://localhost:1313/tags/hugo/</loc>
-    <lastmod>2023-07-11T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="pt-br"
-                href="http://localhost:1313/pt-br/tags/hugo/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="http://localhost:1313/tags/hugo/"
-                />
-  </url><url>
-    <loc>http://localhost:1313/authors/lone-coder/</loc>
+    <loc>http://hsu-ph.github.io/series/theme-demo/</loc>
     <lastmod>2023-07-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/markdown/</loc>
-    <lastmod>2023-07-11T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="pt-br"
-                href="http://localhost:1313/pt-br/tags/markdown/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="http://localhost:1313/tags/markdown/"
-                />
-  </url><url>
-    <loc>http://localhost:1313/posts/more-rich-content/</loc>
+    <loc>http://hsu-ph.github.io/categories/theme-demo/</loc>
     <lastmod>2023-07-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/shortcodes/</loc>
-    <lastmod>2023-07-11T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="pt-br"
-                href="http://localhost:1313/pt-br/tags/shortcodes/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="http://localhost:1313/tags/shortcodes/"
-                />
-  </url><url>
-    <loc>http://localhost:1313/categories/syntax/</loc>
-    <lastmod>2023-07-11T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="pt-br"
-                href="http://localhost:1313/pt-br/categoria/sintaxe/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="http://localhost:1313/categories/syntax/"
-                />
-  </url><url>
-    <loc>http://localhost:1313/series/theme-demo/</loc>
-    <lastmod>2023-07-11T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/categories/theme-demo/</loc>
-    <lastmod>2023-07-11T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/authors/hugo-authors/</loc>
+    <loc>http://hsu-ph.github.io/authors/hugo-authors/</loc>
     <lastmod>2023-01-05T01:15:29+01:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="pt-br"
-                href="http://localhost:1313/pt-br/autores/autores-de-hugo/"
+                href="http://hsu-ph.github.io/pt-br/autores/autores-de-hugo/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:1313/authors/hugo-authors/"
+                href="http://hsu-ph.github.io/authors/hugo-authors/"
                 />
   </url><url>
-    <loc>http://localhost:1313/contact/</loc>
+    <loc>http://hsu-ph.github.io/contact/</loc>
   </url><url>
-    <loc>http://localhost:1313/projects/</loc>
-  </url><url>
-    <loc>http://localhost:1313/tags/text/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="pt-br"
-                href="http://localhost:1313/pt-br/tags/text/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="http://localhost:1313/tags/text/"
-                />
+    <loc>http://hsu-ph.github.io/projects/</loc>
   </url>
 </urlset>

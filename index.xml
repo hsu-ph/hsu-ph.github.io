@@ -2,52 +2,52 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Pei-Han</title>
-    <link>http://localhost:1313/</link>
+    <link>http://hsu-ph.github.io/</link>
     <description>Recent content on Pei-Han</description>
     <generator>Hugo</generator>
     <language>en</language>
     <lastBuildDate>Tue, 08 Oct 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://hsu-ph.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>About</title>
-      <link>http://localhost:1313/about/</link>
+      <link>http://hsu-ph.github.io/about/</link>
       <pubDate>Tue, 08 Oct 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/about/</guid>
+      <guid>http://hsu-ph.github.io/about/</guid>
       <description>&lt;p&gt;I&amp;rsquo;m an Information Systems student specializing in data science and AI applications! I&amp;rsquo;m an Information Systems student focusing on data science and AI applications. I love solving real-world problems with data and exploring the infinite possibilities of AI.&#xA;In my spare time, I am also a visual enthusiast who loves photography. Through the lens, I capture the wonderful moments of life, and I look forward to using my professional knowledge to bring changes to education, health and other fields, so that technology can truly benefit society!&lt;/p&gt;</description>
     </item>
     <item>
       <title>NBA Game Experience</title>
-      <link>http://localhost:1313/posts/nba-content/</link>
+      <link>http://hsu-ph.github.io/posts/nba-content/</link>
       <pubDate>Sun, 12 May 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/nba-content/</guid>
+      <guid>http://hsu-ph.github.io/posts/nba-content/</guid>
       <description>&lt;!-- raw HTML omitted --&gt;&#xA;&lt;p&gt;I went with a friend to see a regular season NBA game in Boston to watch the Celtics, and it was truly &lt;strong&gt;an unforgettable experience&lt;/strong&gt;! The atmosphere was &lt;strong&gt;electric&lt;/strong&gt; right from the start, with fans wearing green jerseys and chanting slogans. &lt;em&gt;(Of course, we wore green too!)&lt;/em&gt;&#xA;The moment the players entered the stadium, the crowd erupted, and the cheers were deafening. Being there, I felt an indescribable sense of &lt;strong&gt;unity&lt;/strong&gt; that you simply can&amp;rsquo;t experience on TV.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Christmas in New York</title>
-      <link>http://localhost:1313/posts/placeholder-text/</link>
+      <link>http://hsu-ph.github.io/posts/new-year-nyc/</link>
       <pubDate>Mon, 25 Dec 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/placeholder-text/</guid>
-      <description>&lt;h1 id=&#34;christmas-in-new-york-&#34;&gt;&#xA;  Christmas in New York 🎄✨&#xA;  &lt;a class=&#34;heading-link&#34; href=&#34;#christmas-in-new-york-&#34;&gt;&#xA;    &lt;i class=&#34;fa-solid fa-link&#34; aria-hidden=&#34;true&#34; title=&#34;Link to heading&#34;&gt;&lt;/i&gt;&#xA;    &lt;span class=&#34;sr-only&#34;&gt;Link to heading&lt;/span&gt;&#xA;  &lt;/a&gt;&#xA;&lt;/h1&gt;&#xA;&lt;p&gt;New York City during Christmas is truly magical. From the sparkling lights of Times Square to the majestic Christmas tree at Rockefeller Center, every corner of the city feels like a scene from a holiday movie. As an international student, this experience has been nothing short of extraordinary.&lt;/p&gt;&#xA;&lt;!-- raw HTML omitted --&gt;&#xA;&lt;p&gt;Walking through the streets of Manhattan, I was captivated by the window displays of Fifth Avenue. The creativity and effort put into these displays are breathtaking. The streets were bustling with people, laughter, and the sound of holiday music filling the air.&lt;/p&gt;</description>
+      <guid>http://hsu-ph.github.io/posts/new-year-nyc/</guid>
+      <description>&lt;p&gt;New York City during the holiday season feels like stepping into a magical snow globe. The streets are alive with the sparkle of Christmas lights, the air smells faintly of roasted chestnuts, and everywhere you turn, there’s something that makes you stop and smile.&lt;/p&gt;&#xA;&lt;p&gt;I spent an afternoon at Bryant Park’s Winter Village, sipping on hot chocolate while wandering through the cozy little stalls filled with handmade trinkets and festive treats. The chilly weather couldn’t dampen the warmth of the season—street performers singing Christmas carols, small cafes offering peppermint lattes, and the buzz of cheerful conversations made it impossible not to feel the holiday spirit. It’s those little, unexpected moments that make this time of year so magical.&lt;/p&gt;</description>
     </item>
     <item>
       <title>More Rich Content</title>
-      <link>http://localhost:1313/posts/more-rich-content/</link>
+      <link>http://hsu-ph.github.io/posts/more-rich-content/</link>
       <pubDate>Tue, 11 Jul 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/more-rich-content/</guid>
+      <guid>http://hsu-ph.github.io/posts/more-rich-content/</guid>
       <description>&lt;p&gt;Hugo Coder provides some Custom Shortcodes.&lt;/p&gt;&#xA;&lt;h2 id=&#34;heading&#34;&gt;&#xA;  &#xA;  &lt;a class=&#34;heading-link&#34; href=&#34;#heading&#34;&gt;&#xA;    &lt;i class=&#34;fa-solid fa-link&#34; aria-hidden=&#34;true&#34; title=&#34;Link to heading&#34;&gt;&lt;/i&gt;&#xA;    &lt;span class=&#34;sr-only&#34;&gt;Link to heading&lt;/span&gt;&#xA;  &lt;/a&gt;&#xA;&lt;/h2&gt;</description>
     </item>
     <item>
       <title>Contact</title>
-      <link>http://localhost:1313/contact/</link>
+      <link>http://hsu-ph.github.io/contact/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/contact/</guid>
+      <guid>http://hsu-ph.github.io/contact/</guid>
       <description>&lt;p&gt;Follow me, &lt;a href=&#34;https://www.linkedin.com/in/pei-han-hsu-264139214/&#34;  class=&#34;external-link&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;linkedln&lt;/a&gt;.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Projects</title>
-      <link>http://localhost:1313/projects/</link>
+      <link>http://hsu-ph.github.io/projects/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/projects/</guid>
+      <guid>http://hsu-ph.github.io/projects/</guid>
       <description>&lt;p&gt;Nothing to see here&amp;hellip; Move along!&lt;/p&gt;</description>
     </item>
   </channel>
