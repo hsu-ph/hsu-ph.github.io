@@ -2,24 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Authors on Pei-Han</title>
-    <link>http://www.example.com/authors/</link>
+    <link>http://hsu-ph.github.io/authors/</link>
     <description>Recent content in Authors on Pei-Han</description>
     <generator>Hugo</generator>
     <language>en</language>
     <lastBuildDate>Thu, 13 Jul 2023 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://www.example.com/authors/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://hsu-ph.github.io/authors/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Lone Coder</title>
-      <link>http://www.example.com/authors/lone-coder/</link>
+      <link>http://hsu-ph.github.io/authors/lone-coder/</link>
       <pubDate>Thu, 13 Jul 2023 00:00:00 +0000</pubDate>
-      <guid>http://www.example.com/authors/lone-coder/</guid>
+      <guid>http://hsu-ph.github.io/authors/lone-coder/</guid>
       <description></description>
     </item>
     <item>
       <title>Authors of Hugo</title>
-      <link>http://www.example.com/authors/hugo-authors/</link>
+      <link>http://hsu-ph.github.io/authors/hugo-authors/</link>
       <pubDate>Thu, 05 Jan 2023 01:15:29 +0100</pubDate>
-      <guid>http://www.example.com/authors/hugo-authors/</guid>
+      <guid>http://hsu-ph.github.io/authors/hugo-authors/</guid>
       <description></description>
     </item>
   </channel>

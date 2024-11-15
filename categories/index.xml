@@ -2,24 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on Pei-Han</title>
-    <link>http://www.example.com/categories/</link>
+    <link>http://hsu-ph.github.io/categories/</link>
     <description>Recent content in Categories on Pei-Han</description>
     <generator>Hugo</generator>
     <language>en</language>
     <lastBuildDate>Thu, 13 Jul 2023 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://www.example.com/categories/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://hsu-ph.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Syntax</title>
-      <link>http://www.example.com/categories/syntax/</link>
+      <link>http://hsu-ph.github.io/categories/syntax/</link>
       <pubDate>Thu, 13 Jul 2023 00:00:00 +0000</pubDate>
-      <guid>http://www.example.com/categories/syntax/</guid>
+      <guid>http://hsu-ph.github.io/categories/syntax/</guid>
       <description></description>
     </item>
     <item>
       <title>Theme Demo</title>
-      <link>http://www.example.com/categories/theme-demo/</link>
+      <link>http://hsu-ph.github.io/categories/theme-demo/</link>
       <pubDate>Thu, 13 Jul 2023 00:00:00 +0000</pubDate>
-      <guid>http://www.example.com/categories/theme-demo/</guid>
+      <guid>http://hsu-ph.github.io/categories/theme-demo/</guid>
       <description></description>
     </item>
   </channel>
