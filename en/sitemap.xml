@@ -209,7 +209,16 @@
                 href="http://hsu-ph.github.io/tags/text/"
                 />
   </url><url>
-    <loc>http://hsu-ph.github.io/series/blog-photo/</loc>
+    <loc>http://hsu-ph.github.io/tags/blog/</loc>
+    <lastmod>2023-05-12T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://hsu-ph.github.io/series/event-blog/</loc>
+    <lastmod>2023-05-12T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://hsu-ph.github.io/categories/experiences/</loc>
+    <lastmod>2023-05-12T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://hsu-ph.github.io/tags/nba/</loc>
     <lastmod>2023-05-12T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://hsu-ph.github.io/posts/nba-content/</loc>
@@ -231,7 +240,7 @@
     <loc>http://hsu-ph.github.io/tags/photos/</loc>
     <lastmod>2023-05-12T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://hsu-ph.github.io/tags/plog/</loc>
+    <loc>http://hsu-ph.github.io/categories/sports/</loc>
     <lastmod>2023-05-12T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://hsu-ph.github.io/authors/hugo-authors/</loc>
