@@ -2,91 +2,91 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://www.example.com/projects/project2/</loc>
+    <loc>http://localhost:65470/projects/project2/</loc>
     <lastmod>2021-07-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://www.example.com/projects/project1/</loc>
+    <loc>http://localhost:65470/projects/project1/</loc>
     <lastmod>2021-08-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://www.example.com/projects/project3/</loc>
+    <loc>http://localhost:65470/projects/project3/</loc>
     <lastmod>2021-07-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://www.example.com/project_tags/markdown/</loc>
+    <loc>http://localhost:65470/project_tags/markdown/</loc>
     <lastmod>2021-08-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://www.example.com/</loc>
+    <loc>http://localhost:65470/</loc>
     <lastmod>2021-08-12T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://www.example.com/project_tags/</loc>
+    <loc>http://localhost:65470/project_tags/</loc>
     <lastmod>2021-08-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://www.example.com/projects/</loc>
+    <loc>http://localhost:65470/projects/</loc>
     <lastmod>2021-07-31T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://www.example.com/library_tags/conservation/</loc>
+    <loc>http://localhost:65470/library_tags/conservation/</loc>
     <lastmod>2021-07-10T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://www.example.com/library_tags/</loc>
+    <loc>http://localhost:65470/library_tags/</loc>
     <lastmod>2021-07-10T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://www.example.com/library/book1/</loc>
+    <loc>http://localhost:65470/library/book1/</loc>
     <lastmod>2021-07-10T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://www.example.com/library_tags/red-panda/</loc>
+    <loc>http://localhost:65470/library_tags/red-panda/</loc>
     <lastmod>2021-07-10T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://www.example.com/project_tags/docs/</loc>
+    <loc>http://localhost:65470/project_tags/docs/</loc>
     <lastmod>2021-07-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://www.example.com/project_tags/how-to/</loc>
+    <loc>http://localhost:65470/project_tags/how-to/</loc>
     <lastmod>2021-07-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://www.example.com/project_tags/webapp/</loc>
+    <loc>http://localhost:65470/project_tags/webapp/</loc>
     <lastmod>2021-07-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://www.example.com/garden/</loc>
+    <loc>http://localhost:65470/garden/</loc>
     <lastmod>2021-01-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://www.example.com/library/book2/</loc>
+    <loc>http://localhost:65470/library/book2/</loc>
     <lastmod>2021-01-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://www.example.com/library_tags/kids/</loc>
+    <loc>http://localhost:65470/library_tags/kids/</loc>
     <lastmod>2021-01-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://www.example.com/library/</loc>
+    <loc>http://localhost:65470/library/</loc>
     <lastmod>2021-01-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://www.example.com/garden_tags/bamboo/</loc>
+    <loc>http://localhost:65470/garden_tags/bamboo/</loc>
     <lastmod>2021-08-12T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://www.example.com/garden_tags/cleaning/</loc>
+    <loc>http://localhost:65470/garden_tags/cleaning/</loc>
     <lastmod>2019-03-17T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://www.example.com/garden_tags/food/</loc>
+    <loc>http://localhost:65470/garden_tags/food/</loc>
     <lastmod>2021-08-12T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://www.example.com/garden_tags/fur/</loc>
+    <loc>http://localhost:65470/garden_tags/fur/</loc>
     <lastmod>2019-03-17T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://www.example.com/garden_tags/</loc>
+    <loc>http://localhost:65470/garden_tags/</loc>
     <lastmod>2021-08-12T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://www.example.com/garden_tags/nap/</loc>
+    <loc>http://localhost:65470/garden_tags/nap/</loc>
     <lastmod>2020-11-04T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://www.example.com/garden/seeding_example/</loc>
+    <loc>http://localhost:65470/garden/seeding_example/</loc>
     <lastmod>2021-08-12T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://www.example.com/garden/evergreen_example/</loc>
+    <loc>http://localhost:65470/garden/evergreen_example/</loc>
     <lastmod>2019-03-17T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://www.example.com/garden/growing_example/</loc>
+    <loc>http://localhost:65470/garden/growing_example/</loc>
     <lastmod>2020-11-04T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://www.example.com/garden_tags/trees/</loc>
+    <loc>http://localhost:65470/garden_tags/trees/</loc>
     <lastmod>2020-11-04T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://www.example.com/about/</loc>
+    <loc>http://localhost:65470/about/</loc>
     <lastmod>2015-01-01T00:00:00+00:00</lastmod>
   </url>
 </urlset>
