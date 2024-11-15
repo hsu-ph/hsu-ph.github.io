@@ -2,32 +2,10 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Markdown on João Ninguém</title>
-    <link>http://hsu-ph.github.io/pt-br/tags/markdown/</link>
+    <link>http://localhost:1313/pt-br/tags/markdown/</link>
     <description>Recent content in Markdown on João Ninguém</description>
     <generator>Hugo</generator>
     <language>pt-br</language>
-    <lastBuildDate>Wed, 12 Jul 2023 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://hsu-ph.github.io/pt-br/tags/markdown/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Conteúdo Rico</title>
-      <link>http://hsu-ph.github.io/pt-br/posts/nba-content/</link>
-      <pubDate>Wed, 12 Jul 2023 00:00:00 +0000</pubDate>
-      <guid>http://hsu-ph.github.io/pt-br/posts/nba-content/</guid>
-      <description>&lt;p&gt;O Hugo vem com vários &lt;a href=&#34;https://gohugo.io/content-management/shortcodes/#use-hugos-built-in-shortcodes&#34;  class=&#34;external-link&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Shortcodes Internos&lt;/a&gt; para conteúdo rico, assim como uma &lt;a href=&#34;https://gohugo.io/about/hugo-and-gdpr/&#34;  class=&#34;external-link&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Configuração de Privacidade&lt;/a&gt; e uma gama de Shortcodes simples que permitem embutir versões estáticas e sem JS de várias de redes sociais.&lt;/p&gt;&#xA;&lt;h2 id=&#34;heading&#34;&gt;&#xA;  &#xA;  &lt;a class=&#34;heading-link&#34; href=&#34;#heading&#34;&gt;&#xA;    &lt;i class=&#34;fa-solid fa-link&#34; aria-hidden=&#34;true&#34; title=&#34;Link para o cabeçalho&#34;&gt;&lt;/i&gt;&#xA;    &lt;span class=&#34;sr-only&#34;&gt;Link para o cabeçalho&lt;/span&gt;&#xA;  &lt;/a&gt;&#xA;&lt;/h2&gt;</description>
-    </item>
-    <item>
-      <title>Mais Conteúdo Rico</title>
-      <link>http://hsu-ph.github.io/pt-br/posts/more-rich-content/</link>
-      <pubDate>Tue, 11 Jul 2023 00:00:00 +0000</pubDate>
-      <guid>http://hsu-ph.github.io/pt-br/posts/more-rich-content/</guid>
-      <description>&lt;p&gt;O Hugo Coder proporciona alguns Shortcodes Customizados.&lt;/p&gt;&#xA;&lt;h2 id=&#34;heading&#34;&gt;&#xA;  &#xA;  &lt;a class=&#34;heading-link&#34; href=&#34;#heading&#34;&gt;&#xA;    &lt;i class=&#34;fa-solid fa-link&#34; aria-hidden=&#34;true&#34; title=&#34;Link para o cabeçalho&#34;&gt;&lt;/i&gt;&#xA;    &lt;span class=&#34;sr-only&#34;&gt;Link para o cabeçalho&lt;/span&gt;&#xA;  &lt;/a&gt;&#xA;&lt;/h2&gt;</description>
-    </item>
-    <item>
-      <title>Texto de Exemplo</title>
-      <link>http://hsu-ph.github.io/pt-br/posts/placeholder-text/</link>
-      <pubDate>Wed, 05 Jul 2023 00:00:00 +0000</pubDate>
-      <guid>http://hsu-ph.github.io/pt-br/posts/placeholder-text/</guid>
-      <description>&lt;p&gt;Lorem est tota propiore conpellat pectoribus de pectora summo.&lt;/p&gt;</description>
-    </item>
+    <atom:link href="http://localhost:1313/pt-br/tags/markdown/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
