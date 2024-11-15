@@ -15,5 +15,12 @@
       <guid>http://hsu-ph.github.io/series/theme-demo/</guid>
       <description></description>
     </item>
+    <item>
+      <title>Blog Photo</title>
+      <link>http://hsu-ph.github.io/series/blog-photo/</link>
+      <pubDate>Fri, 12 May 2023 00:00:00 +0000</pubDate>
+      <guid>http://hsu-ph.github.io/series/blog-photo/</guid>
+      <description></description>
+    </item>
   </channel>
 </rss>

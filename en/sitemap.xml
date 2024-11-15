@@ -310,6 +310,9 @@
                 href="http://hsu-ph.github.io/tags/text/"
                 />
   </url><url>
+    <loc>http://hsu-ph.github.io/series/blog-photo/</loc>
+    <lastmod>2023-05-12T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>http://hsu-ph.github.io/posts/rich-content/</loc>
     <lastmod>2023-05-12T00:00:00+00:00</lastmod>
     <xhtml:link
@@ -324,6 +327,12 @@
                 />
   </url><url>
     <loc>http://hsu-ph.github.io/authors/pei-han/</loc>
+    <lastmod>2023-05-12T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://hsu-ph.github.io/tags/photos/</loc>
+    <lastmod>2023-05-12T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://hsu-ph.github.io/tags/plog/</loc>
     <lastmod>2023-05-12T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://hsu-ph.github.io/authors/hugo-authors/</loc>
