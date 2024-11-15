@@ -180,35 +180,6 @@
     <loc>http://hsu-ph.github.io/categories/theme-demo/</loc>
     <lastmod>2023-07-13T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://hsu-ph.github.io/authors/pei-han/</loc>
-    <lastmod>2023-07-12T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://hsu-ph.github.io/posts/rich-content/</loc>
-    <lastmod>2023-07-12T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="pt-br"
-                href="http://hsu-ph.github.io/pt-br/posts/rich-content/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="http://hsu-ph.github.io/posts/rich-content/"
-                />
-  </url><url>
-    <loc>http://hsu-ph.github.io/tags/shortcodes/</loc>
-    <lastmod>2023-07-12T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="pt-br"
-                href="http://hsu-ph.github.io/pt-br/tags/shortcodes/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="http://hsu-ph.github.io/tags/shortcodes/"
-                />
-  </url><url>
     <loc>http://hsu-ph.github.io/posts/more-rich-content/</loc>
     <lastmod>2023-07-11T00:00:00+00:00</lastmod>
     <xhtml:link
@@ -220,6 +191,19 @@
                 rel="alternate"
                 hreflang="en"
                 href="http://hsu-ph.github.io/posts/more-rich-content/"
+                />
+  </url><url>
+    <loc>http://hsu-ph.github.io/tags/shortcodes/</loc>
+    <lastmod>2023-07-11T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt-br"
+                href="http://hsu-ph.github.io/pt-br/tags/shortcodes/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://hsu-ph.github.io/tags/shortcodes/"
                 />
   </url><url>
     <loc>http://hsu-ph.github.io/posts/math-typesetting/</loc>
@@ -325,6 +309,22 @@
                 hreflang="en"
                 href="http://hsu-ph.github.io/tags/text/"
                 />
+  </url><url>
+    <loc>http://hsu-ph.github.io/posts/rich-content/</loc>
+    <lastmod>2023-05-12T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt-br"
+                href="http://hsu-ph.github.io/pt-br/posts/rich-content/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://hsu-ph.github.io/posts/rich-content/"
+                />
+  </url><url>
+    <loc>http://hsu-ph.github.io/authors/pei-han/</loc>
+    <lastmod>2023-05-12T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://hsu-ph.github.io/authors/hugo-authors/</loc>
     <lastmod>2023-01-05T01:15:29+01:00</lastmod>
