@@ -19,7 +19,7 @@
                 />
   </url><url>
     <loc>http://hsu-ph.github.io/authors/</loc>
-    <lastmod>2023-07-13T00:00:00+00:00</lastmod>
+    <lastmod>2023-07-11T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="pt-br"
@@ -32,7 +32,7 @@
                 />
   </url><url>
     <loc>http://hsu-ph.github.io/categories/</loc>
-    <lastmod>2023-07-13T00:00:00+00:00</lastmod>
+    <lastmod>2023-07-11T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="pt-br"
@@ -45,7 +45,7 @@
                 />
   </url><url>
     <loc>http://hsu-ph.github.io/tags/css/</loc>
-    <lastmod>2023-07-13T00:00:00+00:00</lastmod>
+    <lastmod>2023-07-11T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="pt-br"
@@ -58,7 +58,7 @@
                 />
   </url><url>
     <loc>http://hsu-ph.github.io/tags/html/</loc>
-    <lastmod>2023-07-13T00:00:00+00:00</lastmod>
+    <lastmod>2023-07-11T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="pt-br"
@@ -71,7 +71,7 @@
                 />
   </url><url>
     <loc>http://hsu-ph.github.io/tags/hugo/</loc>
-    <lastmod>2023-07-13T00:00:00+00:00</lastmod>
+    <lastmod>2023-07-11T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="pt-br"
@@ -84,20 +84,10 @@
                 />
   </url><url>
     <loc>http://hsu-ph.github.io/authors/lone-coder/</loc>
-    <lastmod>2023-07-13T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="pt-br"
-                href="http://hsu-ph.github.io/pt-br/authors/lone-coder/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="http://hsu-ph.github.io/authors/lone-coder/"
-                />
+    <lastmod>2023-07-11T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://hsu-ph.github.io/tags/markdown/</loc>
-    <lastmod>2023-07-13T00:00:00+00:00</lastmod>
+    <lastmod>2023-07-11T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="pt-br"
@@ -108,77 +98,6 @@
                 hreflang="en"
                 href="http://hsu-ph.github.io/tags/markdown/"
                 />
-  </url><url>
-    <loc>http://hsu-ph.github.io/posts/markdown-syntax/</loc>
-    <lastmod>2023-07-13T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="pt-br"
-                href="http://hsu-ph.github.io/pt-br/posts/markdown-syntax/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="http://hsu-ph.github.io/posts/markdown-syntax/"
-                />
-  </url><url>
-    <loc>http://hsu-ph.github.io/posts/</loc>
-    <lastmod>2023-07-13T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="pt-br"
-                href="http://hsu-ph.github.io/pt-br/posts/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="http://hsu-ph.github.io/posts/"
-                />
-  </url><url>
-    <loc>http://hsu-ph.github.io/series/</loc>
-    <lastmod>2023-07-13T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="pt-br"
-                href="http://hsu-ph.github.io/pt-br/series/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="http://hsu-ph.github.io/series/"
-                />
-  </url><url>
-    <loc>http://hsu-ph.github.io/categories/syntax/</loc>
-    <lastmod>2023-07-13T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="pt-br"
-                href="http://hsu-ph.github.io/pt-br/categoria/sintaxe/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="http://hsu-ph.github.io/categories/syntax/"
-                />
-  </url><url>
-    <loc>http://hsu-ph.github.io/tags/</loc>
-    <lastmod>2023-07-13T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="pt-br"
-                href="http://hsu-ph.github.io/pt-br/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="http://hsu-ph.github.io/tags/"
-                />
-  </url><url>
-    <loc>http://hsu-ph.github.io/series/theme-demo/</loc>
-    <lastmod>2023-07-13T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://hsu-ph.github.io/categories/theme-demo/</loc>
-    <lastmod>2023-07-13T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://hsu-ph.github.io/posts/more-rich-content/</loc>
     <lastmod>2023-07-11T00:00:00+00:00</lastmod>
@@ -191,6 +110,32 @@
                 rel="alternate"
                 hreflang="en"
                 href="http://hsu-ph.github.io/posts/more-rich-content/"
+                />
+  </url><url>
+    <loc>http://hsu-ph.github.io/posts/</loc>
+    <lastmod>2023-07-11T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt-br"
+                href="http://hsu-ph.github.io/pt-br/posts/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://hsu-ph.github.io/posts/"
+                />
+  </url><url>
+    <loc>http://hsu-ph.github.io/series/</loc>
+    <lastmod>2023-07-11T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt-br"
+                href="http://hsu-ph.github.io/pt-br/series/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://hsu-ph.github.io/series/"
                 />
   </url><url>
     <loc>http://hsu-ph.github.io/tags/shortcodes/</loc>
@@ -206,83 +151,37 @@
                 href="http://hsu-ph.github.io/tags/shortcodes/"
                 />
   </url><url>
-    <loc>http://hsu-ph.github.io/posts/math-typesetting/</loc>
-    <lastmod>2023-07-10T00:00:00+00:00</lastmod>
+    <loc>http://hsu-ph.github.io/categories/syntax/</loc>
+    <lastmod>2023-07-11T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="pt-br"
-                href="http://hsu-ph.github.io/pt-br/posts/math-typesetting/"
+                href="http://hsu-ph.github.io/pt-br/categoria/sintaxe/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://hsu-ph.github.io/posts/math-typesetting/"
+                href="http://hsu-ph.github.io/categories/syntax/"
                 />
   </url><url>
-    <loc>http://hsu-ph.github.io/posts/html-and-css-only-tabs/</loc>
-    <lastmod>2023-07-09T00:00:00+00:00</lastmod>
+    <loc>http://hsu-ph.github.io/tags/</loc>
+    <lastmod>2023-07-11T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="pt-br"
-                href="http://hsu-ph.github.io/pt-br/posts/html-and-css-only-tabs/"
+                href="http://hsu-ph.github.io/pt-br/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://hsu-ph.github.io/posts/html-and-css-only-tabs/"
+                href="http://hsu-ph.github.io/tags/"
                 />
   </url><url>
-    <loc>http://hsu-ph.github.io/posts/mermaid-support/</loc>
-    <lastmod>2023-07-08T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="pt-br"
-                href="http://hsu-ph.github.io/pt-br/posts/mermaid-support/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="http://hsu-ph.github.io/posts/mermaid-support/"
-                />
+    <loc>http://hsu-ph.github.io/series/theme-demo/</loc>
+    <lastmod>2023-07-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://hsu-ph.github.io/tags/emoji/</loc>
-    <lastmod>2023-07-07T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="pt-br"
-                href="http://hsu-ph.github.io/pt-br/tags/emoji/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="http://hsu-ph.github.io/tags/emoji/"
-                />
-  </url><url>
-    <loc>http://hsu-ph.github.io/posts/emoji-support/</loc>
-    <lastmod>2023-07-07T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="pt-br"
-                href="http://hsu-ph.github.io/pt-br/posts/emoji-support/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="http://hsu-ph.github.io/posts/emoji-support/"
-                />
-  </url><url>
-    <loc>http://hsu-ph.github.io/posts/hugo-coder-wiki/</loc>
-    <lastmod>2023-07-06T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="pt-br"
-                href="http://hsu-ph.github.io/pt-br/posts/hugo-coder-wiki/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="http://hsu-ph.github.io/posts/hugo-coder-wiki/"
-                />
+    <loc>http://hsu-ph.github.io/categories/theme-demo/</loc>
+    <lastmod>2023-07-11T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://hsu-ph.github.io/posts/placeholder-text/</loc>
     <lastmod>2023-07-05T00:00:00+00:00</lastmod>
