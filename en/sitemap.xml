@@ -2,6 +2,22 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>http://hsu-ph.github.io/about/</loc>
+    <lastmod>2024-10-08T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://hsu-ph.github.io/</loc>
+    <lastmod>2024-10-08T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt-br"
+                href="http://hsu-ph.github.io/pt-br/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://hsu-ph.github.io/"
+                />
+  </url><url>
     <loc>http://hsu-ph.github.io/authors/</loc>
     <lastmod>2023-07-13T00:00:00+00:00</lastmod>
     <xhtml:link
@@ -106,19 +122,6 @@
                 href="http://hsu-ph.github.io/posts/markdown-syntax/"
                 />
   </url><url>
-    <loc>http://hsu-ph.github.io/</loc>
-    <lastmod>2023-07-13T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="pt-br"
-                href="http://hsu-ph.github.io/pt-br/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="http://hsu-ph.github.io/"
-                />
-  </url><url>
     <loc>http://hsu-ph.github.io/posts/</loc>
     <lastmod>2023-07-13T00:00:00+00:00</lastmod>
     <xhtml:link
@@ -176,6 +179,9 @@
   </url><url>
     <loc>http://hsu-ph.github.io/categories/theme-demo/</loc>
     <lastmod>2023-07-13T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://hsu-ph.github.io/authors/pei-han/</loc>
+    <lastmod>2023-07-12T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://hsu-ph.github.io/posts/rich-content/</loc>
     <lastmod>2023-07-12T00:00:00+00:00</lastmod>
@@ -333,41 +339,8 @@
                 href="http://hsu-ph.github.io/authors/hugo-authors/"
                 />
   </url><url>
-    <loc>http://hsu-ph.github.io/about/</loc>
-    <lastmod>2019-02-28T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="pt-br"
-                href="http://hsu-ph.github.io/pt-br/about/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="http://hsu-ph.github.io/about/"
-                />
-  </url><url>
     <loc>http://hsu-ph.github.io/contact/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="pt-br"
-                href="http://hsu-ph.github.io/pt-br/contact/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="http://hsu-ph.github.io/contact/"
-                />
   </url><url>
     <loc>http://hsu-ph.github.io/projects/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="pt-br"
-                href="http://hsu-ph.github.io/pt-br/projects/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="http://hsu-ph.github.io/projects/"
-                />
   </url>
 </urlset>

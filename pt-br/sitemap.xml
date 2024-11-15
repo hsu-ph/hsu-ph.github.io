@@ -341,42 +341,5 @@
                 hreflang="pt-br"
                 href="http://hsu-ph.github.io/pt-br/tags/shortcodes/"
                 />
-  </url><url>
-    <loc>http://hsu-ph.github.io/pt-br/about/</loc>
-    <lastmod>2019-02-28T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="http://hsu-ph.github.io/about/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="pt-br"
-                href="http://hsu-ph.github.io/pt-br/about/"
-                />
-  </url><url>
-    <loc>http://hsu-ph.github.io/pt-br/contact/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="http://hsu-ph.github.io/contact/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="pt-br"
-                href="http://hsu-ph.github.io/pt-br/contact/"
-                />
-  </url><url>
-    <loc>http://hsu-ph.github.io/pt-br/projects/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="http://hsu-ph.github.io/projects/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="pt-br"
-                href="http://hsu-ph.github.io/pt-br/projects/"
-                />
   </url>
 </urlset>
