@@ -2,18 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Bamboo on My Digital Garden</title>
-    <link>http://localhost:65470/garden_tags/bamboo/</link>
+    <link>http://hsu-ph.github.io/garden_tags/bamboo/</link>
     <description>Recent content in Bamboo on My Digital Garden</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <copyright>Nigalya Ponya ©</copyright>
     <lastBuildDate>Thu, 12 Aug 2021 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:65470/garden_tags/bamboo/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://hsu-ph.github.io/garden_tags/bamboo/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>On the nutrition benefits of bamboo shoots</title>
-      <link>http://localhost:65470/garden/seeding_example/</link>
+      <link>http://hsu-ph.github.io/garden/seeding_example/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>http://localhost:65470/garden/seeding_example/</guid>
+      <guid>http://hsu-ph.github.io/garden/seeding_example/</guid>
       <description></description>
     </item>
   </channel>
