@@ -3,10 +3,10 @@
   <channel>
     <title>johndoe</title>
     <link>http://www.example.com/</link>
-    <description>Recent content on Pei-Han</description>
+    <description>Recent content on johndoe</description>
     <generator>Hugo</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 13 Jul 2024 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 13 Jul 2023 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://www.example.com/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Markdown Syntax Guide</title>
