@@ -15,12 +15,5 @@
       <guid>http://hsu-ph.github.io/projects/food-delivery-app/</guid>
       <description>&lt;h3 id=&#34;introduction&#34;&gt;&#xA;  &lt;strong&gt;Introduction&lt;/strong&gt;&#xA;  &lt;a class=&#34;heading-link&#34; href=&#34;#introduction&#34;&gt;&#xA;    &lt;i class=&#34;fa-solid fa-link&#34; aria-hidden=&#34;true&#34; title=&#34;Link to heading&#34;&gt;&lt;/i&gt;&#xA;    &lt;span class=&#34;sr-only&#34;&gt;Link to heading&lt;/span&gt;&#xA;  &lt;/a&gt;&#xA;&lt;/h3&gt;&#xA;&lt;p&gt;This food order system, built using Java Swing, provides a comprehensive platform that connects farms, food companies, and their branches with customers. The system allows customers to browse menus, place orders, and enjoy a wide variety of culinary delights. In turn, farms and food companies efficiently manage their offerings, while ensuring a smooth and seamless link between the agricultural source and the end consumer.&lt;/p&gt;</description>
     </item>
-    <item>
-      <title>A </title>
-      <link>http://hsu-ph.github.io/projects/bigmart_prediction/</link>
-      <pubDate>Thu, 07 Dec 2023 00:00:00 +0000</pubDate>
-      <guid>http://hsu-ph.github.io/projects/bigmart_prediction/</guid>
-      <description>&lt;h2 id=&#34;project-overview&#34;&gt;&#xA;  &lt;strong&gt;Project Overview&lt;/strong&gt;&#xA;  &lt;a class=&#34;heading-link&#34; href=&#34;#project-overview&#34;&gt;&#xA;    &lt;i class=&#34;fa-solid fa-link&#34; aria-hidden=&#34;true&#34; title=&#34;Link to heading&#34;&gt;&lt;/i&gt;&#xA;    &lt;span class=&#34;sr-only&#34;&gt;Link to heading&lt;/span&gt;&#xA;  &lt;/a&gt;&#xA;&lt;/h2&gt;&#xA;&lt;p&gt;As we manage a company, we not only have to produce products, but also we need to understand the sales status of each type of product in different regions, different channels, and additional merchants, which enhances the importance of analyzing datasets. Therefore, the project will analyze different tiers, types of products, and areas and build models to predict sales.&lt;/p&gt;&#xA;&lt;h2 id=&#34;key-question&#34;&gt;&#xA;  &lt;strong&gt;Key Question&lt;/strong&gt;&#xA;  &lt;a class=&#34;heading-link&#34; href=&#34;#key-question&#34;&gt;&#xA;    &lt;i class=&#34;fa-solid fa-link&#34; aria-hidden=&#34;true&#34; title=&#34;Link to heading&#34;&gt;&lt;/i&gt;&#xA;    &lt;span class=&#34;sr-only&#34;&gt;Link to heading&lt;/span&gt;&#xA;  &lt;/a&gt;&#xA;&lt;/h2&gt;&#xA;&lt;p&gt;Depending on several factors (Reviews, Price, Location, etc.) to predict the ranking of the property.&lt;/p&gt;</description>
-    </item>
   </channel>
 </rss>

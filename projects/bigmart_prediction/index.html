@@ -3,7 +3,7 @@
 
 <head>
   <title>
-  A  · Pei-Han
+  Prediction Model for BigMart Product Sales · Pei-Han
 </title>
   <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -19,12 +19,12 @@
 
 
   <meta name="twitter:card" content="summary">
-  <meta name="twitter:title" content="A ">
+  <meta name="twitter:title" content="Prediction Model for BigMart Product Sales">
   <meta name="twitter:description" content="A">
 
 <meta property="og:url" content="http://hsu-ph.github.io/projects/bigmart_prediction/">
   <meta property="og:site_name" content="Pei-Han">
-  <meta property="og:title" content="A ">
+  <meta property="og:title" content="Prediction Model for BigMart Product Sales">
   <meta property="og:description" content="A">
   <meta property="og:locale" content="en">
   <meta property="og:type" content="article">
@@ -148,7 +148,7 @@
     <header>
       <h1 class="title">
         <a class="title-link" href="http://hsu-ph.github.io/projects/bigmart_prediction/">
-          A 
+          Prediction Model for BigMart Product Sales
         </a>
       </h1>
     </header>
@@ -177,7 +177,44 @@
 <li>Analyzing sales in different types of store</li>
 <li>Help the store owner find the problems</li>
 </ul>
+<ol>
+<li></li>
+</ol>
+<p>[pic]</p>
+<ol start="2">
+<li>Predict the sales of different item types in each outlet next time</li>
+</ol>
+<pre tabindex="0"><code>X_1 = pd.get_dummies(df_sort_IdItemType[[&#39;Outlet_Identifier&#39;, &#39;Item_Type&#39;]], columns=[&#39;Outlet_Identifier&#39;, &#39;Item_Type&#39;])
+Y_1 = df_sort_IdItemType[&#39;Item_Outlet_Sales&#39;]
 
+# Split data to training and test set
+X_train_1, X_test_1, Y_train_1, Y_test_1 = train_test_split(X_1, Y_1, test_size=0.4, random_state=42)
+
+# Remove features which don&#39;t match the training set or the test set
+extraFeatureTrain = set(X_train_1.columns) - set(X_test_1.columns)
+extraFeatureTest = set(X_test_1.columns) - set(X_train_1.columns)
+X_train_1 = X_train_1.drop(columns=extraFeatureTrain)
+X_test_1 = X_test_1.drop(columns=extraFeatureTest)
+
+# Build KNN regressor model
+knnRModel = KNeighborsRegressor(n_neighbors=5)
+
+knnRModel.fit(X_train_1, Y_train_1)
+
+Y_pred_1 = knnRModel.predict(X_test_1)
+Y_pred_1
+</code></pre><pre tabindex="0"><code>p_data1 = pd.DataFrame(index=pd.MultiIndex.from_product([l_OutId, l_ItemType], names=[&#39;Outlet_Identifier&#39;, &#39;Item_Type&#39;]))
+
+p_data_encoded_1 = pd.get_dummies(p_data1.reset_index(), columns=[ &#39;Item_Type&#39;,&#39;Outlet_Identifier&#39;])
+
+common_features_1 = list(set(X_train_1.columns) &amp; set(p_data_encoded_1.columns))
+p_data_encoded_1 = p_data_encoded_1[common_features_1]
+
+p_sales = knnRegressor.predict(p_data_encoded_1)
+
+p_data1[&#39;Predicted_Sales&#39;] = p_sales
+#p_data
+</code></pre>
   </article>
 </section>
 
