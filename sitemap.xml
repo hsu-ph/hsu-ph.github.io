@@ -2,10 +2,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://hsu-ph.github.io/about/</loc>
-    <lastmod>2024-10-08T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>http://hsu-ph.github.io/</loc>
+    <lastmod>2024-12-11T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://hsu-ph.github.io/posts/</loc>
+    <lastmod>2024-12-11T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://hsu-ph.github.io/about/</loc>
     <lastmod>2024-10-08T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://hsu-ph.github.io/tags/blog/</loc>
@@ -29,17 +32,11 @@
     <loc>http://hsu-ph.github.io/tags/photos/</loc>
     <lastmod>2024-05-12T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://hsu-ph.github.io/posts/</loc>
-    <lastmod>2024-05-12T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>http://hsu-ph.github.io/series/</loc>
     <lastmod>2024-05-12T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://hsu-ph.github.io/categories/sports/</loc>
     <lastmod>2024-05-12T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://hsu-ph.github.io/posts/bo/</loc>
-    <lastmod>2024-03-11T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://hsu-ph.github.io/posts/bos-common/</loc>
     <lastmod>2024-03-11T00:00:00+00:00</lastmod>
