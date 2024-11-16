@@ -36,5 +36,12 @@
       <guid>http://hsu-ph.github.io/posts/new-year-nyc/</guid>
       <description>&lt;p&gt;New York City during the holiday season feels like stepping into a magical snow globe. The streets are alive with the sparkle of Christmas lights, the air smells faintly of roasted chestnuts, and everywhere you turn, there’s something that makes you stop and smile.&lt;/p&gt;&#xA;&lt;p&gt;I spent an afternoon at Bryant Park’s Winter Village, sipping on hot chocolate while wandering through the cozy little stalls filled with handmade trinkets and festive treats. The chilly weather couldn’t dampen the warmth of the season—street performers singing Christmas carols, small cafes offering peppermint lattes, and the buzz of cheerful conversations made it impossible not to feel the holiday spirit. It’s those little, unexpected moments that make this time of year so magical.&lt;/p&gt;</description>
     </item>
+    <item>
+      <title>A </title>
+      <link>http://hsu-ph.github.io/projects/bigmart_prediction/</link>
+      <pubDate>Thu, 07 Dec 2023 00:00:00 +0000</pubDate>
+      <guid>http://hsu-ph.github.io/projects/bigmart_prediction/</guid>
+      <description>&lt;h2 id=&#34;project-overview&#34;&gt;&#xA;  &lt;strong&gt;Project Overview&lt;/strong&gt;&#xA;  &lt;a class=&#34;heading-link&#34; href=&#34;#project-overview&#34;&gt;&#xA;    &lt;i class=&#34;fa-solid fa-link&#34; aria-hidden=&#34;true&#34; title=&#34;Link to heading&#34;&gt;&lt;/i&gt;&#xA;    &lt;span class=&#34;sr-only&#34;&gt;Link to heading&lt;/span&gt;&#xA;  &lt;/a&gt;&#xA;&lt;/h2&gt;&#xA;&lt;p&gt;As we manage a company, we not only have to produce products, but also we need to understand the sales status of each type of product in different regions, different channels, and additional merchants, which enhances the importance of analyzing datasets. Therefore, the project will analyze different tiers, types of products, and areas and build models to predict sales.&lt;/p&gt;&#xA;&lt;h2 id=&#34;key-question&#34;&gt;&#xA;  &lt;strong&gt;Key Question&lt;/strong&gt;&#xA;  &lt;a class=&#34;heading-link&#34; href=&#34;#key-question&#34;&gt;&#xA;    &lt;i class=&#34;fa-solid fa-link&#34; aria-hidden=&#34;true&#34; title=&#34;Link to heading&#34;&gt;&lt;/i&gt;&#xA;    &lt;span class=&#34;sr-only&#34;&gt;Link to heading&lt;/span&gt;&#xA;  &lt;/a&gt;&#xA;&lt;/h2&gt;&#xA;&lt;p&gt;Depending on several factors (Reviews, Price, Location, etc.) to predict the ranking of the property.&lt;/p&gt;</description>
+    </item>
   </channel>
 </rss>

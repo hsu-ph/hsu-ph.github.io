@@ -2,13 +2,10 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://hsu-ph.github.io/</loc>
-    <lastmod>2024-12-11T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://hsu-ph.github.io/projects/</loc>
-    <lastmod>2024-12-11T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>http://hsu-ph.github.io/about/</loc>
+    <lastmod>2024-10-08T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://hsu-ph.github.io/</loc>
     <lastmod>2024-10-08T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://hsu-ph.github.io/categories/app/</loc>
@@ -42,6 +39,9 @@
     <lastmod>2024-05-12T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://hsu-ph.github.io/posts/</loc>
+    <lastmod>2024-05-12T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://hsu-ph.github.io/projects/</loc>
     <lastmod>2024-05-12T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://hsu-ph.github.io/tags/python/</loc>
@@ -85,6 +85,15 @@
   </url><url>
     <loc>http://hsu-ph.github.io/tags/new-york/</loc>
     <lastmod>2023-12-25T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://hsu-ph.github.io/projects/bigmart_prediction/</loc>
+    <lastmod>2023-12-07T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://hsu-ph.github.io/series/prdiction/</loc>
+    <lastmod>2023-12-07T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://hsu-ph.github.io/series/product-sales/</loc>
+    <lastmod>2023-12-07T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://hsu-ph.github.io/authors/</loc>
     <lastmod>2023-01-05T01:15:52+01:00</lastmod>

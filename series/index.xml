@@ -36,5 +36,19 @@
       <guid>http://hsu-ph.github.io/series/holiday-adventures/</guid>
       <description></description>
     </item>
+    <item>
+      <title>Prdiction</title>
+      <link>http://hsu-ph.github.io/series/prdiction/</link>
+      <pubDate>Thu, 07 Dec 2023 00:00:00 +0000</pubDate>
+      <guid>http://hsu-ph.github.io/series/prdiction/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Product Sales</title>
+      <link>http://hsu-ph.github.io/series/product-sales/</link>
+      <pubDate>Thu, 07 Dec 2023 00:00:00 +0000</pubDate>
+      <guid>http://hsu-ph.github.io/series/product-sales/</guid>
+      <description></description>
+    </item>
   </channel>
 </rss>
