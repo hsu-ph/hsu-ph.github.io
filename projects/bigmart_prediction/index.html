@@ -178,10 +178,15 @@
 <li>Help the store owner find the problems</li>
 </ul>
 <ol>
-<li></li>
+<li>Show total sales in each outlet
+![totalSales](/images/1-1total sales.JPG)</li>
+<li>Predict the sales of different item types in each outlet next time
+![differentitem](/images/1-2item types.JPG)</li>
+<li>Using pie chart to appear the proportion of the sales of different item type in each outlet.
+![differentitem](/images/1-2-1different item type.JPG)</li>
 </ol>
-<p>[pic]</p>
-<ol start="2">
+<hr>
+<ol start="4">
 <li>Predict the sales of different item types in each outlet next time</li>
 </ol>
 <pre tabindex="0"><code>X_1 = pd.get_dummies(df_sort_IdItemType[[&#39;Outlet_Identifier&#39;, &#39;Item_Type&#39;]], columns=[&#39;Outlet_Identifier&#39;, &#39;Item_Type&#39;])
@@ -203,7 +208,8 @@ knnRModel.fit(X_train_1, Y_train_1)
 
 Y_pred_1 = knnRModel.predict(X_test_1)
 Y_pred_1
-</code></pre><pre tabindex="0"><code>p_data1 = pd.DataFrame(index=pd.MultiIndex.from_product([l_OutId, l_ItemType], names=[&#39;Outlet_Identifier&#39;, &#39;Item_Type&#39;]))
+</code></pre><hr>
+<pre tabindex="0"><code>p_data1 = pd.DataFrame(index=pd.MultiIndex.from_product([l_OutId, l_ItemType], names=[&#39;Outlet_Identifier&#39;, &#39;Item_Type&#39;]))
 
 p_data_encoded_1 = pd.get_dummies(p_data1.reset_index(), columns=[ &#39;Item_Type&#39;,&#39;Outlet_Identifier&#39;])
 
@@ -214,6 +220,83 @@ p_sales = knnRegressor.predict(p_data_encoded_1)
 
 p_data1[&#39;Predicted_Sales&#39;] = p_sales
 #p_data
+</code></pre><ol start="5">
+<li>
+<p>Using bar chart to appear the predicted price of different item types in each outlet next time.
+![differentitem](/images/2-4 different item types.JPG)</p>
+</li>
+<li>
+<p>Total sales in each tier
+![differentitem](/images/3Total sale.JPG)</p>
+</li>
+<li>
+<p>Predict the sales of different item types in each tier(location) next time</p>
+</li>
+</ol>
+<hr>
+<pre tabindex="0"><code>X_4 = pd.get_dummies(df_sort_LocItemType[[&#39;Outlet_Location_Type&#39;, &#39;Item_Type&#39;]], columns=[&#39;Outlet_Location_Type&#39;, &#39;Item_Type&#39;])
+Y_4 = df_sort_LocItemType[&#39;Item_Outlet_Sales&#39;]
+
+# Split training set and test set
+X_train_4, X_test_4, Y_train_4, Y_test_4 = train_test_split(X_4, Y_4, test_size=0.3, random_state=42)
+
+# Remove features that do not match between the training set and the test set
+extra_FeatureTrain_4 = set(X_train_4.columns) - set(X_test_4.columns)
+extra_FeatureTest_4 = set(X_test_4.columns) - set(X_train_4.columns)
+X_train_4 = X_train_4.drop(columns=extra_FeatureTrain_4)
+X_test_4 = X_test_4.drop(columns=extra_FeatureTest_4)
+
+# Build KNN regressor model
+knnModel = KNeighborsRegressor(n_neighbors=5)
+
+knnModel.fit(X_train_4, Y_train_4)
+
+Y_pred_4 = knnModel.predict(X_test_4)
+Y_pred_4
+</code></pre><hr>
+<pre tabindex="0"><code>p_data_Location_4 = pd.DataFrame(index=pd.MultiIndex.from_product([l_LocId, l_ItemType], names=[&#39;Outlet_Location_Type&#39;, &#39;Item_Type&#39;]))
+
+p_data_encoded_4 = pd.get_dummies(p_data_Location_4.reset_index(), columns=[ &#39;Item_Type&#39;,&#39;Outlet_Location_Type&#39;])
+
+common_features_4 = list(set(X_train_4.columns) &amp; set(p_data_encoded_4.columns))
+
+# Ensure that only the columns used during the training phase are used for prediction
+p_data_encoded_4 = p_data_encoded_4.reindex(columns=X_train_4.columns, fill_value=0)
+
+# Make predictions
+p_sales_Location = knnModel.predict(p_data_encoded_4)
+
+# Add predictions to the DataFrame
+p_data_Location_4[&#39;Predicted_Sales&#39;] = p_sales_Location
+
+p_data_Location_4
+</code></pre><pre tabindex="0"><code>with pm.Model() as Store_Compare_regression_model:
+    Item_MRP = pm.Data(&#34;Item_MRP&#34;, Store_Compare_models[&#34;Item_MRP&#34;])
+    Item_Outlet_Sales = pm.Data(&#34;Item_Outlet_Sales&#34;, Store_Compare_models[&#34;Item_Outlet_Sales&#34;])
+    Item_Visibility = pm.Data(&#34;Item_Visibility&#34;, Store_Compare_models[&#34;Item_Visibility&#34;])
+    Low_Fat = pm.Data(&#34;Low_Fat&#34;, Store_Compare_models[&#34;Low Fat&#34;])
+    Regular = pm.Data(&#34;Regular&#34;, Store_Compare_models[&#34;Regular&#34;])
+    Tier_1 = pm.Data(&#34;Tier_1&#34;, Store_Compare_models[&#34;Tier 1&#34;])
+    Tier_2 = pm.Data(&#34;Tier_2&#34;, Store_Compare_models[&#34;Tier 2&#34;])
+    Tier_3 = pm.Data(&#34;Tier_3&#34;, Store_Compare_models[&#34;Tier 3&#34;])
+    
+    # priors
+    beta_i = pm.Normal(&#34;beta_i&#34;, mu=0, sigma=1)
+    beta_Item_MRP = pm.Normal(&#34;beta_Item_MRP&#34;, mu=0, sigma=1)
+    beta_Item_Outlet_Sales= pm.Normal(&#34;beta_Item_Outlet_Sales&#34;, mu=0, sigma=1)
+    beta_Item_Visibility = pm.Normal(&#34;beta_Item_Visibility&#34;, mu=0, sigma=1)
+    beta_Low_Fat = pm.Normal(&#34;beta_Low_Fat&#34;, mu=0, sigma=1)
+    beta_Regular = pm.Normal(&#34;beta_Regular&#34;, mu=0, sigma=1)
+    beta_Tier_1 = pm.Normal(&#34;beta_Tier_1&#34;, mu=0, sigma=1)
+    beta_Tier_2 = pm.Normal(&#34;beta_Tier_2&#34;, mu=0, sigma=1)
+    beta_Tier_3 = pm.Normal(&#34;beta_Tier_3&#34;, mu=0, sigma=1)
+    
+    # linear model
+    mu = beta_i + beta_Item_MRP * Item_MRP + beta_Item_Outlet_Sales * Item_Outlet_Sales + beta_Item_Visibility * Item_Visibility + beta_Low_Fat * Low_Fat + beta_Regular * Regular + beta_Tier_1 * Tier_1 + beta_Tier_2 * Tier_2 +beta_Tier_3 * Tier_3
+    p = pm.Deterministic(&#34;p&#34;, pm.math.invlogit(mu))
+    
+    # likelihood
+    pm.Bernoulli(&#34;WL&#34;, p=p, observed=Store_Compare_models[&#34;Item_Outlet_Sales&#34;])
 </code></pre>
   </article>
 </section>
