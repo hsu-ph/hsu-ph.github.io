@@ -9,10 +9,24 @@
     <lastBuildDate>Sun, 12 May 2024 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://hsu-ph.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>APP</title>
+      <link>http://hsu-ph.github.io/categories/app/</link>
+      <pubDate>Sun, 12 May 2024 00:00:00 +0000</pubDate>
+      <guid>http://hsu-ph.github.io/categories/app/</guid>
+      <description></description>
+    </item>
+    <item>
       <title>Experiences</title>
       <link>http://hsu-ph.github.io/categories/experiences/</link>
       <pubDate>Sun, 12 May 2024 00:00:00 +0000</pubDate>
       <guid>http://hsu-ph.github.io/categories/experiences/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Software</title>
+      <link>http://hsu-ph.github.io/categories/software/</link>
+      <pubDate>Sun, 12 May 2024 00:00:00 +0000</pubDate>
+      <guid>http://hsu-ph.github.io/categories/software/</guid>
       <description></description>
     </item>
     <item>
