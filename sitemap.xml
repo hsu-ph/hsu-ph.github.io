@@ -35,6 +35,9 @@
     <loc>http://hsu-ph.github.io/tags/photos/</loc>
     <lastmod>2024-05-12T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>http://hsu-ph.github.io/projects/</loc>
+    <lastmod>2024-05-12T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>http://hsu-ph.github.io/series/</loc>
     <lastmod>2024-05-12T00:00:00+00:00</lastmod>
   </url><url>
@@ -93,7 +96,5 @@
     <lastmod>2023-01-04T11:51:36+01:00</lastmod>
   </url><url>
     <loc>http://hsu-ph.github.io/contact/</loc>
-  </url><url>
-    <loc>http://hsu-ph.github.io/projects/</loc>
   </url>
 </urlset>
