@@ -5,7 +5,7 @@
     <loc>http://hsu-ph.github.io/</loc>
     <lastmod>2024-12-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://hsu-ph.github.io/posts/</loc>
+    <loc>http://hsu-ph.github.io/projects/</loc>
     <lastmod>2024-12-11T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://hsu-ph.github.io/about/</loc>
@@ -15,6 +15,9 @@
     <lastmod>2024-05-12T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://hsu-ph.github.io/tags/blog/</loc>
+    <lastmod>2024-05-12T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://hsu-ph.github.io/series/event/</loc>
     <lastmod>2024-05-12T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://hsu-ph.github.io/series/event-blog/</loc>
@@ -38,7 +41,7 @@
     <loc>http://hsu-ph.github.io/tags/photos/</loc>
     <lastmod>2024-05-12T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://hsu-ph.github.io/projects/</loc>
+    <loc>http://hsu-ph.github.io/posts/</loc>
     <lastmod>2024-05-12T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://hsu-ph.github.io/tags/python/</loc>
